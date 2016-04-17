@@ -1,0 +1,12 @@
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS\bin\Debug\AppSampleCWS.dll
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS\bin\Debug\AppSampleCWS.pdb
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS\bin\Debug\Xamarin.Forms.Core.dll
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS\bin\Debug\Xamarin.Forms.Platform.dll
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS\bin\Debug\Xamarin.Forms.Core.xml
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS\obj\Debug\AppSampleCWS.csprojResolveAssemblyReference.cache
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS\obj\Debug\AppSampleCWS.dll
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS\obj\Debug\AppSampleCWS.pdb
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS\obj\Debug\AppSampleCWS.dll.mdb
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS\bin\Debug\AppSampleCWS.dll.mdb

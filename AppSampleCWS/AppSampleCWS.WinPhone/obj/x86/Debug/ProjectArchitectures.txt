@@ -1,0 +1,2 @@
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS.WinPhone\AppSampleCWS.WinPhone.csproj;x86
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS\AppSampleCWS.csproj;neutral

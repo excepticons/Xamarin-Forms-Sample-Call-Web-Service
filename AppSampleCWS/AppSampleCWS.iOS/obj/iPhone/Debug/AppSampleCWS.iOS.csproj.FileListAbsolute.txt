@@ -1,0 +1,17 @@
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS.iOS\bin\iPhone\Debug\AppSampleCWSiOS.exe
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS.iOS\bin\iPhone\Debug\AppSampleCWSiOS.pdb
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS.iOS\bin\iPhone\Debug\AppSampleCWS.dll
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS.iOS\bin\iPhone\Debug\AppSampleCWS.pdb
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS.iOS\obj\iPhone\Debug\optimized\
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS.iOS\obj\iPhone\Debug\AppSampleCWS.iOS.csprojResolveAssemblyReference.cache
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS.iOS\obj\iPhone\Debug\AppSampleCWSiOS.exe
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS.iOS\obj\iPhone\Debug\AppSampleCWSiOS.pdb
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS.iOS\obj\iPhone\Debug\AppSampleCWSiOS.exe.mdb
+D:\SomeVSProjects\AppSampleCWS\AppSampleCWS\AppSampleCWS.iOS\bin\iPhone\Debug\AppSampleCWSiOS.exe.mdb
